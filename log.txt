@@ -1,0 +1,62 @@
+﻿You log goes in this  file.
+
+Start: 19 January 2015 -1530
+End: 20 January 2015 -0200
+Total time – 11:30
+comments- read project, started reading course material
+
+Start:20 January 2015 -1530
+End: 20 January 2015 -2345
+Total Time – 8:15
+comments- read more stuff I didnt understand, attempted functions.js Tried to make sense of Qnit_runner.
+
+Start:22 January 2015 -1530
+End: 23 January -0130
+Total Time- 11:00
+comments- REALLY struggling learning Javascript, ordering new books, hopefully be here friday. Starting to panic about time
+
+Start:23 January 2015 -1530
+End: 24 January 2015 -0200
+Total time – 11:30
+comments- not any closer to finishing, strugging with objects.js but got variables.js done. Would have been nice to realize I should have started with that.
+
+Start: 24 January 2015 -0530
+End: 24 January 2015 -1000
+Total Time- 4:30
+comments- realized this isnt due till next week, have other classes to work on.
+
+Start: 26 January 2015 -1530
+End: 27 January 2015 -0200
+Total time – 11:30
+comments- Monday night ritual? Stuck on parseGit, hopefully can get some help here from classmates soon. 
+
+Start:27 January 2015 -1530
+End: 28 January 2015 -0100
+Total time – 10:30
+comments- maybe I mostly got it done? This is awful. I hate how much I have to learn in a short period of time. Regardless I am hearing the next project is worse so need to get going on it.
+
+Start:29 January 2015 -1700
+End: 30 January 2015 -0300
+Total Time – 10:00
+comments- falling behind in other classes, feeling really really really behind in this class, can't seem to understand Ajax, probably because I barely understand HTML and have to look up things to read Javascript. 
+
+Start:30 January 2015 -1600
+End: 31 January 2015 -0200
+Total Time – 10:00
+comments- Dropped two other classes so I could focus on this one (mostly because I dont want to take it again) finally borrowed enough code and watched enough videos to get AJAX up and running. Already can see this project wont be completed by me.
+
+Start: 31 January 2015 -1300
+End: 1 Feb 2015- 0100 (erratic)
+Total Time- 09:00
+comments- wife brought home a new puppy so constant “non working” breaks were taken. Dont know how to get git to drop anything for me. Ive had limited sleep so my senses are dulled and Im having a hard time making sense of it.
+
+Start:1 Feb 2015- 0600
+End: 1 Feb 2015- 2330
+Total time – 17:30
+comments- Literally looked at a computer all day with very short breaks in between. I am so frustrated that I can hardly stand it. Writing right now, so tired knowing I am only halfway done with this project. 
+
+
+Total- 115.25 hrs (I assert that I in no way “padded” or ammended my hours. -LC)
+comments- this is stupid. I hate this. I learned literally as much as I could in two weeks. I learned enough Javascript to know more javascript than any other person I interact with. AND I STILL COULDNT COMPLETE THE PROJECT. I have been falling asleep at work, I haven't been able to see my wife, I am so behind this week I had to drop 2 of my classes (hopefully assuming that now I will have time to spend on this one). The lectures are useless. I watched them multiple times but the instructor doesnt go over how any functions actually work or how they work, just a short 6 minute video. Later he goes on to say that other videos are better because they get more money on youtube for them. Then he goes ahead and says if you are spending a bunch of time on this you are doing it wrong. 
+
+Haha to put icing on the cake I realized I forgot a function in the first assignment.. awesome. Is there a class for the retards who cant seem to learn HTML, JavaScript and AJAX in 3 weeks? I guess we also learned DOM too, but that was just implied that we were supposed to figure out parent/child stuff. No worries. I expect a bad grade on this. Honestly I dont even care anymore. 
